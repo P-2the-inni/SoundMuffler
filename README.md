@@ -28,5 +28,5 @@ Step 2: check your logs for "Loaded Sound Muffler Version 1.0.0", if StarExtensi
 at this point the only other logged messages will be error messages so you will know what the problem is
 
 <h4>What to do if it crashes:</h4>
-![LAUGH LAUGH LAUGH](not that funny.png)
+<img src="not that funny.png" alt="Alt text" title="Optional title">
 
