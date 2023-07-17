@@ -1,4 +1,5 @@
-<h1>SoundMuffler</h1>
+<img src="exampleImage.png" alt="Alt text" title="Optional title">
+<h2>SoundMuffler</h2>
 
 Version: 1.0.0
 
