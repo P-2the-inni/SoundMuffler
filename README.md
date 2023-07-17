@@ -1,11 +1,12 @@
-<img src="exampleImage.png" alt="Alt text" title="Optional title">
 <h2>SoundMuffler</h2>
 
 Version: 1.0.0
 
-Author: P_2the_inni
-
 Disclamers: only tested on windows, built for x64, should be compatible with other dlls unless there are conflicting hooks that may get overridden
+
+The main dll can either be injected via [StarExtensions](https://github.com/StarExtensions/StarExtensions) using the libraries.txt feature added in version 1.4.17 OR by injecting manually.
+
+<img src="exampleImage.png" alt="Alt text" title="The interface">
 
 <h3>GUIDE</h3>
 
@@ -33,5 +34,5 @@ Step 2: check your logs for "Loaded Sound Muffler Version 1.0.0", if StarExtensi
 at this point the only other logged messages will be error messages so you will know what the problem is
 
 <h4>What to do if it crashes:</h4>
-<img src="not that funny.png" alt="Alt text" title="Optional title">
+<img src="not that funny.png" alt="Alt text" title="this is the part where you laugh">
 
