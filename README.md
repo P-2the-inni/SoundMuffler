@@ -28,3 +28,4 @@ Step 2: check your logs for "Loaded Sound Muffler Version 1.0.0", if StarExtensi
 at this point the only other logged messages will be error messages so you will know what the problem is
 
 <h4>What to do if it crashes:</h4>
+![image](https://github.com/P-2the-inni/SoundMuffler/assets/98459374/f84f874f-d9cb-4e99-be19-91f4f712fd77)
