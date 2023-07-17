@@ -8,6 +8,9 @@ Disclamers: only tested on windows, built for x64, should be compatible with oth
 
 <h3>GUIDE</h3>
 
+<h4>Installation</h4>
+<p>Place SoundMuffler.dll and libraries.txt (or create your own) into the same win64 folder as your StarExtensions.dll
+
 <p>If everything is working correctly, once the dll has loaded you should be able to press the 'end' key on your keyboard which will trigger the interface to show.<br>
 then there will be 2 areas, on the left the "recent" area and on the right the "disabled" area, sounds displayed in the recent area are sounds that have recently been played, sounds in the disabled area are sounds that have been disabled.<br>
 Clicking enable will make the currently selected disabled sound become enabled again.<br>
